@@ -1,0 +1,8 @@
+:HL["/healthy-pet/_next/static/chunks/1gwt5gnk4eyo7.css","style"]
+:HL["/healthy-pet/_next/static/chunks/2yhi69w_o5ne-.css","style"]
+:HL["/healthy-pet/_next/static/chunks/0bayuypugk_ou.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"surgery","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"services","h":64,"c":"$Q2"}]]
+0:{"b":"bhM9UQykm6oL8No3rGYzS","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
