@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,75847,e=>{"use strict";var i=e.i(83568),o=e.i(85872),r=e.i(38157),t=e.i(99583);e.s(["BookingQueryForm",0,function(){let e=(0,o.useSearchParams)().get("service"),s=r.f.some(i=>i.slug===e)&&e||"";return(0,i.jsx)(t.BookingForm,{initialService:s},s)}])}]);
