@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: /
 
-Sitemap: https://vivasik228.github.io/healthy-pet/sitemap.xml
+Sitemap: https://vivasik228.github.io/zooprofi/sitemap.xml

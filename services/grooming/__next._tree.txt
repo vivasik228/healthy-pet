@@ -1,8 +1,8 @@
-:HL["/healthy-pet/_next/static/chunks/340na08kmvxo0.css","style"]
-:HL["/healthy-pet/_next/static/chunks/1v6ekv4s4jv0m.css","style"]
-:HL["/healthy-pet/_next/static/chunks/2ynojvr2-30h2.css","style"]
+:HL["/zooprofi/_next/static/chunks/3cxe-f3yahlxq.css","style"]
+:HL["/zooprofi/_next/static/chunks/1v6ekv4s4jv0m.css","style"]
+:HL["/zooprofi/_next/static/chunks/2ynojvr2-30h2.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"grooming","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"services","h":64,"c":"$Q2"}]]
-0:{"b":"jdXjguD5SOmsiVC0icvif","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"SXxBAUYZC3pkLKrIk7qoR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
