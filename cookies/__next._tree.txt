@@ -1,7 +1,7 @@
-:HL["/lamantin-vet/_next/static/chunks/35evi82k_jtxf.css","style"]
+:HL["/lamantin-vet/_next/static/chunks/1u3s-tn5gdg37.css","style"]
 :HL["/lamantin-vet/_next/static/chunks/1v6ekv4s4jv0m.css","style"]
 :HL["/lamantin-vet/_next/static/chunks/2ynojvr2-30h2.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"cookies","h":64,"c":"$Q2"}]]
-0:{"b":"tOLSrPXIl-9x-CKgoQKJE","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"eL5NNwiPCdbuvscy9dPn5","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
